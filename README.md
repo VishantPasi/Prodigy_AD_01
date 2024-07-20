@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Prodigy_AD_01
-=======
 # calculator
 
 A new Flutter project.
